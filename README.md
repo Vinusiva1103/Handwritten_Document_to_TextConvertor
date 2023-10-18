@@ -4,10 +4,10 @@ Handwritten Document to Text Convertor - Final Project
 # Version
 Version -Python3.9
 
-#Library
+# Library
  pytesseract/tkinter/Opencv-python
 
- #Software
+ # Software
  Tesseract-OCR
  
 
