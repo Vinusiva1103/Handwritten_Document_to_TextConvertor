@@ -7,7 +7,7 @@ Version -Python3.9
 # Library
  pytesseract/tkinter/Opencv-python
 
- # Software
+ # Software 
  Tesseract-OCR
  
 
